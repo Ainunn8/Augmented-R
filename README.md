@@ -1,6 +1,6 @@
 ﻿# Augmented-R
-Judul
-Penjelasan Aplikasi
-Panduan
-Link Marker
+Judul,
+Penjelasan Aplikasi,
+Panduan,
+Link Marker,
 QR Code
